@@ -30,7 +30,7 @@ module.enable = function(self)
     "^速度提高(.+)%%",
     -- turtle-wow
     "speed based on", "Slow and steady...", "Riding",
-    "Lento y constante...", "Aumenta la velocidad según tu habilidad de Montar.",
+    "Lento y constante...", "Aumenta la velocidad según tu habilidad de Montar.", "Aumenta la velocidad según tu habilidad de Equitación.",
     "根据您的骑行技能提高速度。", "根据骑术技能提高速度。", "又慢又稳......",
   }
 
