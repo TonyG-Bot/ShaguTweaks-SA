@@ -2475,8 +2475,8 @@ ShaguTweaks_locale["esES"]["debuffs"] = {
 }
 
 -- custom entries not detected by DBC extractor
---ShaguPlates_locale["esES"]["debuffs"]['Cono de frío']={[0]=8.0,} -- Cone of Cold
-ShaguPlates_locale["esES"]["debuffs"]['Cono de Frío']={[0]=8.0,} -- Cone of Cold SA
+--ShaguTweaks_locale["esES"]["debuffs"]['Cono de frío']={[0]=8.0,} -- Cone of Cold
+ShaguTweaks_locale["esES"]["debuffs"]['Cono de Frío']={[0]=8.0,} -- Cone of Cold SA
 
 ShaguTweaks_locale["esES"]["totems"] = {
   ["Tótem de limpieza de enfermedades"] = "spell_nature_diseasecleansingtotem",
